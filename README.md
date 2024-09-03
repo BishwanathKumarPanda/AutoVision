@@ -1,7 +1,7 @@
 # AutoVision
 AutoPredictor is a machine learning-powered system designed to predict various aspects of automobiles, such as pricing, resale value, and performance metrics.
 # Regression Analysis for Used Car Price Prediction
-[Francesco Pisu](http://github.com/francescopisu), [Hicham Lafhouli](https://github.com/H1cham)
+https://github.com/BishwanathKumarPanda
 
 - [Regression Analysis for Used Car Price Prediction](#regression-analysis-for-used-car-price-prediction)
   * [1.1 Introduction](#11-introduction)
